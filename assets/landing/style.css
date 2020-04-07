@@ -363,7 +363,7 @@ section.info {
 section.wave {
 	position: relative;
 	background-color: #f2f7fb;
-	background-image: url('https://cloud.iimaple.com/theme/malio/index/landing/wave.png');
+	background-image: url('assets/landing/wave.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: top;

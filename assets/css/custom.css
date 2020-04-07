@@ -53,7 +53,7 @@
 	border-color: #fff !important;
 }
 .licenses .license.bg-primary .btn.btn-progress {
-	background-image: url('../dist/img/spinner-primary.svg');
+	background-image: url('https://cdn.jsdelivr.net/gh/him411/v2b/assets/dist/img/spinner-primary.svg');
 }
 .licenses .license .license-detail {
 	padding: 30px;

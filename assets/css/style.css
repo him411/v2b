@@ -224,25 +224,25 @@ select.form-control:not([size]):not([multiple]) {
   padding-right: 60px;
 }
 .form-control.creditcard.visa {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/visa.png");
+  background-image: url("assets/img/visa.png");
 }
 .form-control.creditcard.americanexpress {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/americanexpress.png");
+  background-image: url("assets/img/americanexpress.png");
 }
 .form-control.creditcard.dinersclub {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/dinersclub.png");
+  background-image: url("assets/img/dinersclub.png");
 }
 .form-control.creditcard.discover {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/discover.png");
+  background-image: url("assets/img/discover.png");
 }
 .form-control.creditcard.jcb {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/jcb.png");
+  background-image: url("assets/img/jcb.png");
 }
 .form-control.creditcard.mastercard {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/mastercard.png");
+  background-image: url("assets/img/mastercard.png");
 }
 .form-control.creditcard.visa {
-  background-image: url("https://cloud.iimaple.com/theme/malio/index/img/visa.png");
+  background-image: url("assets/img/visa.png");
 }
 
 .form-group {
