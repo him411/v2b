@@ -706,6 +706,16 @@
     })
   </script>
 
+  <script>
+    var code = "UG93ZXJlZCBieSA8YSBocmVmPSJodHRwczovL3BhZ2VzLmdpdGh1Yi5jb20vIiB0YXJnZXQ9Il9ibGFuayIgPkdpdEh1YiBQYWdlczwvYT4=";
+    $('#copyright').html(atob(code));
+
+    function changeLang(lang) {
+      document.cookie = "lang="+lang;
+      location.reload();
+    }
+  </script>
+
 </body>
 
 </html>
